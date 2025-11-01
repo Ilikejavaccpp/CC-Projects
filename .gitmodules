@@ -1,0 +1,3 @@
+[submodule "C-gui/lib/glfw"]
+	path = C-gui/lib/glfw
+	url = https://github.com/Ilikejavaccpp/C-gui/lib/

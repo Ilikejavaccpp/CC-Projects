@@ -1,0 +1,3 @@
+/workspaces/CC-Projects/C-gui/build/CMakeFiles/OpenGLApp.dir
+/workspaces/CC-Projects/C-gui/build/CMakeFiles/edit_cache.dir
+/workspaces/CC-Projects/C-gui/build/CMakeFiles/rebuild_cache.dir
