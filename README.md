@@ -1,11 +1,5 @@
 # CC-Projects
 
-[TOC]
-
-my c/c++ projects here. DO NOT EDIT unless downloaded / cloned
-
-<hr>
-
 <script>
     function teleport() {
         _file = document.getElementById("file");
@@ -16,6 +10,13 @@ my c/c++ projects here. DO NOT EDIT unless downloaded / cloned
     _file = document.getElementById("file");
     _file.addEventListener("click", teleport());
 </script>
+[TOC]
+
+my c/c++ projects here. DO NOT EDIT unless downloaded / cloned
+
+<hr>
+
+
 
 ## How to Clone / Download
 
