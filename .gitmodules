@@ -1,3 +1,6 @@
 [submodule "C-gui/lib/glfw"]
 	path = C-gui/lib/glfw
 	url = https://github.com/Ilikejavaccpp/C-gui/lib/
+[submodule "C-gui/lib/raylib"]
+	path = C-gui/lib/raylib
+	url = https://github.com/Ilikejavaccpp/C-gui/lib/raylib
