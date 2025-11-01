@@ -1,0 +1,9 @@
+# None is ignored 
+!C-gui/
+!*
+
+# Except:
+!C-gui/build/
+*/build/
+
+
