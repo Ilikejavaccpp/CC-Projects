@@ -1,15 +1,5 @@
 # CC-Projects
 
-<script>
-    function teleport() {
-        _file = document.getElementById("file");
-        _file.style.color = blue;
-        _file.style.font = underline;
-        window.open("https://github.com/Ilikejavaccpp/ CC-Projects");
-    }
-    _file = document.getElementById("file");
-    _file.addEventListener("click", teleport());
-</script>
 [TOC]
 
 my c/c++ projects here. DO NOT EDIT unless downloaded / cloned
@@ -59,7 +49,7 @@ Then, on <strong>all</strong> OS inside <b>&lt;dir&gt;</b>, simply build
 Once you have cloned (downloaded) the repo, you now have full access to do what u want with it. <u>It is simply a journey of somebody learning <a href="https://learnopengl.com/">OpenGL</a></u> .
 </p>
 <p>
-</t>You may also edit the <p id="file" onclick="teleport()">.gitignore</p> file provided in the</p>
+</t>You may also edit the <a href="https://github.com/Ilikejavaccpp/CC-Projects.git">.gitignore</a> file provided in the</p>
 
 > C-gui/
 
@@ -82,4 +72,4 @@ The file structure is (C-gui is where all it is for OpenGl,Raylib for C; which i
 > |__ [g] .gitignore
 > |__ ..
 |---^|__ [i] README.md (this document)
-> |__ .
+> |__ .gitignore
